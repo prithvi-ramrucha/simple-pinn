@@ -1,1 +1,4 @@
 # Simple PINN
+
+Link: https://medium.com/@theo.wolf/physics-informed-neural-networks-a-simple-tutorial-with-pytorch-f28a890b874a
+
